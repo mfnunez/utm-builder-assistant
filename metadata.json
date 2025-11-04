@@ -1,0 +1,5 @@
+
+{
+  "name": "GA4 Campaign Analysis Chatbot",
+  "description": "A chatbot for a campaign analysis website that can answer questions about different types of acquisition channels from data extracted via the GA4 MCP, in French."
+}
